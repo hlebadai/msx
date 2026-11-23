@@ -1,0 +1,5 @@
+{
+  "name": "ForkPlayer",
+  "version": "1.0.0",
+  "parameter": "content:json:eyJ0eXBlIjoicGFnZXMiLCJ0ZW1wbGF0ZSI6eyJ0eXBlIjoic2VwYXJhdGUiLCJsYXlvdXQiOiIwLDAsMiwzIiwiYWxpZ25tZW50IjoidGl0bGUtY2VudGVyIiwiY29sb3IiOiJtc3gtZ2xhc3MiLCJpY29uIjoicGxheS1jaXJjbGUtb3V0bGluZSJ9LCJpdGVtcyI6W3sidGl0bGUiOiJGb3JrUGxheWVyIChDT00pIiwiYWN0aW9uIjoibGluazpodHRwOi8vYnJvd3Nlci5hcHBmeG1sLmNvbS8ifV19"
+}
